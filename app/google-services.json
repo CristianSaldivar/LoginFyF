@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "24420568291",
+    "firebase_url": "https://loginfire-617aa.firebaseio.com",
+    "project_id": "loginfire-617aa",
+    "storage_bucket": "loginfire-617aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24420568291:android:e5dc9f8674e056bb",
+        "android_client_info": {
+          "package_name": "com.login.feliz.loginfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24420568291-oasgd0d0kqt52n5j8gno8odn1vonbdgo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.login.feliz.loginfire",
+            "certificate_hash": "33b33ce7008b3afdae2bac2f34e4f9e374270606"
+          }
+        },
+        {
+          "client_id": "24420568291-q801vnu224fo82et5dtk6h2p4np4ugd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp_xnkxAntptao1vcdmYeJjOxeMwCVNR4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24420568291-q801vnu224fo82et5dtk6h2p4np4ugd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

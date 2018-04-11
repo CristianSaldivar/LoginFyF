@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginFire</string>
+
+    <string name="facebook_app_id">190704264783140</string>  <!--cadenas para el identificador de tu aplicación de Facebook
+                                                              y para habilitar las pestañas personalizadas de Chrome-->
+    <string name="fb_login_protocol_scheme">fb190704264783140</string>
+
+    <string name="cancel_login">Operación inválida</string>
+    <string name="error_login">Ocurrió un error al ingresar</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="firebase_error_login">Ocurrió un error en la sesión</string>
+
+</resources>
